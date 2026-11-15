@@ -1,0 +1,3 @@
+/Users/yaroslavbyrak/CLionProjects/practice6/cmake-build-debug/CMakeFiles/practice6.dir
+/Users/yaroslavbyrak/CLionProjects/practice6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yaroslavbyrak/CLionProjects/practice6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
